@@ -131,5 +131,20 @@ The forecast is an independent analytical exercise based on historical growth. I
 
 The goal of this project is to demonstrate practical financial analytics skills across data preparation, SQL querying, financial modelling, forecasting, reconciliation, and visual communication.
 
+## Dashboard Preview
+
+### 1. Financial Dashboard Overview
+<img width="1920" height="1080" alt="01-dashboard-overview png" src="https://github.com/user-attachments/assets/1a2ea9b2-0948-418e-b99b-b0a2071b778c" />
+
+
+### 2. Financial Analytics
+<img width="1920" height="1080" alt="02-financial-analytics png" src="https://github.com/user-attachments/assets/7b7ed3ae-33da-4c1a-b691-11e225820be4" />
+
+### 3. Financial Statements
+<img width="1920" height="1080" alt="03-financial-statements png" src="https://github.com/user-attachments/assets/369d1f02-886f-4c67-9079-0537f1fe7cf4" />
+
+### 4. Executive Insights & Data Quality
+<img width="1920" height="1080" alt="04-executive-insights png" src="https://github.com/user-attachments/assets/abfc5e26-4af2-4b1f-8262-46e6eacdc587" />
+
 **Author:** Prabhneet Kaur  
 **GitHub:** [Prabhneetk17](https://github.com/Prabhneetk17)
